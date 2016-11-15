@@ -9,9 +9,9 @@ Group edited resource for deep learning
 - Stanford DL tutorial
 
 ## Open Courses
-- Berkeley [CS294: Deep Reinforcement Learning, Spring 2017](http://rll.berkeley.edu/deeprlcourse/)
 - Stanford [CS231n CNN for Visual Recognition](http://cs231n.github.io/)
-- Stanford [C224d DL for NLP](http://cs224d.stanford.edu/syllabus.html)
+- Stanford [CS224d DL for NLP](http://cs224d.stanford.edu/syllabus.html)
+- Berkeley [CS294: Deep Reinforcement Learning, Spring 2017](http://rll.berkeley.edu/deeprlcourse/)
 - Coursera Jeff Hinton
 
 ## Other
