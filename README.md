@@ -4,6 +4,7 @@ Group edited resource for deep learning
 ## ebook 
 - Michael Nielsen's approachable [book](http://neuralnetworksanddeeplearning.com/chap1.html)
 - Bengio's book [Deep Learning](http://www.deeplearningbook.org/)
+- Elements of Statistical Learning [book](http://statweb.stanford.edu/~tibs/ElemStatLearn/)
 
 ## Tutorial
 - Stanford DL tutorial
